@@ -1,21 +1,3 @@
-print 
-"DDDDDDDDDDDDD      DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS                  XXXXXXX       XXXXXXX
-D::::::::::::DDD   D::::::::::::DDD        OO:::::::::OO    SS:::::::::::::::S                 X:::::X       X:::::X
-D:::::::::::::::DD D:::::::::::::::DD    OO:::::::::::::OO S:::::SSSSSS::::::S                 X:::::X       X:::::X
-DDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  O:::::::OOO:::::::OS:::::S     SSSSSSS                 X::::::X     X::::::X
-  D:::::D    D:::::D D:::::D    D:::::D O::::::O   O::::::OS:::::S                             XXX:::::X   X:::::XXX
-  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::OS:::::S                                X:::::X X:::::X   
-  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O S::::SSSS                              X:::::X:::::X    
-  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O  SS::::::SSSSS     ---------------      X:::::::::X     
-  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O    SSS::::::::SS   -:::::::::::::-      X:::::::::X     
-  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O       SSSSSS::::S  ---------------     X:::::X:::::X    
-  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O            S:::::S                    X:::::X X:::::X   
-  D:::::D    D:::::D D:::::D    D:::::D O::::::O   O::::::O            S:::::S                 XXX:::::X   X:::::XXX
-DDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  O:::::::OOO:::::::OSSSSSSS     S:::::S                 X::::::X     X::::::X
-D:::::::::::::::DD D:::::::::::::::DD    OO:::::::::::::OO S::::::SSSSSS:::::S                 X:::::X       X:::::X
-D::::::::::::DDD   D::::::::::::DDD        OO:::::::::OO   S:::::::::::::::SS                  X:::::X       X:::::X
-DDDDDDDDDDDDD      DDDDDDDDDDDDD             OOOOOOOOO      SSSSSSSSSSSSSSS                    XXXXXXX       XXXXXXX
-"
 import sys
 import os
 import time
@@ -37,8 +19,25 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
-print
-print "Author   : HA-MRX"
+print 
+"DDDDDDDDDDDDD      DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS                  XXXXXXX       XXXXXXX
+D::::::::::::DDD   D::::::::::::DDD        OO:::::::::OO    SS:::::::::::::::S                 X:::::X       X:::::X
+D:::::::::::::::DD D:::::::::::::::DD    OO:::::::::::::OO S:::::SSSSSS::::::S                 X:::::X       X:::::X
+DDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  O:::::::OOO:::::::OS:::::S     SSSSSSS                 X::::::X     X::::::X
+  D:::::D    D:::::D D:::::D    D:::::D O::::::O   O::::::OS:::::S                             XXX:::::X   X:::::XXX
+  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::OS:::::S                                X:::::X X:::::X   
+  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O S::::SSSS                              X:::::X:::::X    
+  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O  SS::::::SSSSS     ---------------      X:::::::::X     
+  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O    SSS::::::::SS   -:::::::::::::-      X:::::::::X     
+  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O       SSSSSS::::S  ---------------     X:::::X:::::X    
+  D:::::D     D:::::DD:::::D     D:::::DO:::::O     O:::::O            S:::::S                    X:::::X X:::::X   
+  D:::::D    D:::::D D:::::D    D:::::D O::::::O   O::::::O            S:::::S                 XXX:::::X   X:::::XXX
+DDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  O:::::::OOO:::::::OSSSSSSS     S:::::S                 X::::::X     X::::::X
+D:::::::::::::::DD D:::::::::::::::DD    OO:::::::::::::OO S::::::SSSSSS:::::S                 X:::::X       X:::::X
+D::::::::::::DDD   D::::::::::::DDD        OO:::::::::OO   S:::::::::::::::SS                  X:::::X       X:::::X
+DDDDDDDDDDDDD      DDDDDDDDDDDDD             OOOOOOOOO      SSSSSSSSSSSSSSS                    XXXXXXX       XXXXXXX
+"
+print "Author   : esam alian"
 print "You Tube : https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA"
 print "github   : https://github.com/Ha3MrX"
 print "Facebook : https://www.facebook.com/muhamad.jabar222"
